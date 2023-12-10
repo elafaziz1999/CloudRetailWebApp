@@ -1,0 +1,17 @@
+.account-information {
+    background: linear-gradient(180deg, #BEE4FF, #e1ffea22 60%);
+}
+.account-information h2 {
+    padding: 20px;
+    font-size: 70px;
+}
+.account-information form {
+    padding-left: 700px;
+    padding-right: 700px;
+}
+.account-information form label {
+    font-size: 20px;
+}
+.account-information form input {
+    font-size: 15px;
+}

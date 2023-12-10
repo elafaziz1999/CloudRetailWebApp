@@ -1,0 +1,16 @@
+.page{
+    background: linear-gradient(180deg, #BEE4FF, #e1ffea22 60%);
+    padding: 30px;
+}
+.page h2{
+    color: gray;
+}
+.faq h3 {
+    font-size: 50px;
+}
+.faq p {
+    font-size: 25px;
+}
+h1 {
+    font-size: 70px;
+}
